@@ -16,6 +16,8 @@ from modules.helper import check_regressors
 st.image("data/TimeSeriesForecaster.png")
 """
 ### Introduction
+Note: this file is the part of workshop organized by Ai-Guild.
+
 With this app you can forecast the Total Load, the PV production as well as the Wind production of the Belgium Electricity Grid. The live data is fetched from the
 [Elia Open Data Platform](https://www.elia.be/en/grid-data/open-data). 
 
